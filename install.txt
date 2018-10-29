@@ -1,0 +1,2 @@
+just place these directories in home and make
+.vim point to .SpaceVim
